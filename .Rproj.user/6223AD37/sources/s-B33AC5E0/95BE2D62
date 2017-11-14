@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1508925863632.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "95BE2D62",
+    "lastKnownWriteTime" : 1510559141,
+    "last_content_update" : 1510559141804,
+    "path" : "~/Desktop/R_pratice/practice/test.R",
+    "project_path" : "test.R",
+    "properties" : {
+        "cursorPosition" : "37,0",
+        "scrollLine" : "28",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
